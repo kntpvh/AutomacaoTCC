@@ -1,0 +1,9 @@
+C:\Users\felip\source\repos\AutomacaoTCC\AutomacaoTCC\AutomacaoTCC\bin\Release\netstandard2.0\AutomacaoTCC.deps.json
+C:\Users\felip\source\repos\AutomacaoTCC\AutomacaoTCC\AutomacaoTCC\bin\Release\netstandard2.0\AutomacaoTCC.dll
+C:\Users\felip\source\repos\AutomacaoTCC\AutomacaoTCC\AutomacaoTCC\bin\Release\netstandard2.0\AutomacaoTCC.pdb
+C:\Users\felip\source\repos\AutomacaoTCC\AutomacaoTCC\AutomacaoTCC\obj\Release\netstandard2.0\AutomacaoTCC.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\AutomacaoTCC\AutomacaoTCC\AutomacaoTCC\obj\Release\netstandard2.0\AutomacaoTCC.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\AutomacaoTCC\AutomacaoTCC\AutomacaoTCC\obj\Release\netstandard2.0\AutomacaoTCC.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\AutomacaoTCC\AutomacaoTCC\AutomacaoTCC\obj\Release\netstandard2.0\AutomacaoTCC.AssemblyInfo.cs
+C:\Users\felip\source\repos\AutomacaoTCC\AutomacaoTCC\AutomacaoTCC\obj\Release\netstandard2.0\AutomacaoTCC.dll
+C:\Users\felip\source\repos\AutomacaoTCC\AutomacaoTCC\AutomacaoTCC\obj\Release\netstandard2.0\AutomacaoTCC.pdb
