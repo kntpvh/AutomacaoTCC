@@ -1,5 +1,5 @@
 ﻿using AutomacaoTCC.Models;
-
+using System.Threading.Tasks;
 using Xamarin.Forms;
 
 
@@ -14,7 +14,7 @@ namespace AutomacaoTCC.ViewModels
             get { return quartoSw; }
             set {
                 quartoSw = value;
-                
+
                 //objLampadas.UsarLampadas(quartoSw,"QuartoSw");
                 LampadaQuarto(quartoSw);
             }
@@ -23,9 +23,9 @@ namespace AutomacaoTCC.ViewModels
         bool salaDeEstarSw;
         public bool SalaDeEstarSw {
             get { return salaDeEstarSw; }
-            set{
+            set {
                 salaDeEstarSw = value;
-                
+
                 LampadaSala(salaDeEstarSw);
                 //Debug.WriteLine("bool = "+salaDeEstarSw);
             }
@@ -36,7 +36,7 @@ namespace AutomacaoTCC.ViewModels
             get { return cozinhaSw; }
             set {
                 cozinhaSw = value;
-                
+
                 //Debug.WriteLine("bool = "+cozinhaSw);
                 LampadaCozinha(cozinhaSw);
             }
@@ -47,7 +47,7 @@ namespace AutomacaoTCC.ViewModels
             get { return garagemSw; }
             set {
                 garagemSw = value;
-                
+
                 //Debug.WriteLine("bool = "+garagemSw);
                 LampadaGaragem(garagemSw);
             }
@@ -58,7 +58,7 @@ namespace AutomacaoTCC.ViewModels
             get { return quartoSuiteSw; }
             set {
                 quartoSuiteSw = value;
-                
+
                 //Debug.WriteLine("bool = "+quartoSuiteSw);
                 //VerBoolean();
                 LampadaQuartoSuite(quartoSuiteSw);
@@ -70,7 +70,7 @@ namespace AutomacaoTCC.ViewModels
             get { return corredorSw; }
             set {
                 corredorSw = value;
-                
+
                 //Debug.WriteLine("bool = "+corredorSw);
                 LampadaCorredor(corredorSw);
             }
@@ -81,7 +81,7 @@ namespace AutomacaoTCC.ViewModels
 
         public LampadasViewModel() {
 
-            
+
 
             this.mensagemServico = DependencyService.Get<Services.IMensagemServico>();
         }
@@ -90,59 +90,60 @@ namespace AutomacaoTCC.ViewModels
             await this.mensagemServico.ShowAsync("Valor: " + CorredorSw.ToString());
         }
 
+      
+
         private void LampadaQuarto(bool status) {
             if (status == true) {
                 Conexao.Publicar("/home/QUARTO/01", "ON");
-            }else {
+            } else {
                 Conexao.Publicar("/home/QUARTO/01", "OFF");
             }
         }
 
         public void LampadaSala(bool status) {
             //192.168.0.9 - t / home / SALA / 01 - m "OFF"
-            if (status == true){
+            if (status == true) {
                 Conexao.Publicar("/home/SALA/01", "ON");
-            }else{
+            } else {
                 Conexao.Publicar("/home/SALA/01", "OFF");
             }
         }
 
         public void LampadaCozinha(bool status) {
             //192.168.0.9 - t / home / SALA / 01 - m "OFF"
-            if (status == true){
+            if (status == true) {
                 Conexao.Publicar("/home/COZINHA/01", "ON");
-            }else{
+            } else {
                 Conexao.Publicar("/home/COZINHA/01", "OFF");
             }
         }
-        
+
         public void LampadaGaragem(bool status) {
             //192.168.0.9 - t / home / SALA / 01 - m "OFF"
-            if (status == true){
+            if (status == true) {
                 Conexao.Publicar("/home/GARAGEM/01", "ON");
-            }else{
+            } else {
                 Conexao.Publicar("/home/GARAGEM/01", "OFF");
             }
         }
 
         public void LampadaQuartoSuite(bool status) {
             //192.168.0.9 - t / home / SALA / 01 - m "OFF"
-            if (status == true){
+            if (status == true) {
                 Conexao.Publicar("/home/QUARTO/02", "ON");
-            }else{
+            } else {
                 Conexao.Publicar("/home/QUARTO/02", "OFF");
             }
         }
 
         public void LampadaCorredor(bool status) {
             //192.168.0.9 - t / home / SALA / 01 - m "OFF"
-            if (status == true){
+            if (status == true) {
                 Conexao.Publicar("/home/CORREDOR/01", "ON");
-            }else{
+            } else {
                 Conexao.Publicar("/home/CORREDOR/01", "OFF");
             }
         }
-
 
 
     }

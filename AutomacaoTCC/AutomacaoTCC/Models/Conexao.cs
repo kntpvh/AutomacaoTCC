@@ -2,6 +2,7 @@
 using System.Diagnostics;
 using System.Threading;
 using System;
+using System.Threading.Tasks;
 
 namespace AutomacaoTCC.Models
 {
@@ -31,11 +32,10 @@ namespace AutomacaoTCC.Models
         }
 
         //client.Publish("home/quarto/01", "OFF",QoS.FireAndForget,false);
-        public static void Publicar(string dispositivo, string comando) {
+        public static async void Publicar(string dispositivo, string comando) {
             MQTTClient client = Conectar();
-            client.Publish(dispositivo, comando, QoS.FireAndForget, false);
+            await client.PublishAsync(dispositivo, comando, QoS.FireAndForget, true);
         }
-
 
         
     }

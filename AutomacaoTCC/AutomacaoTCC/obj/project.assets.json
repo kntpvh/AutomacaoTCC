@@ -392,11 +392,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felip\\source\\repos\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC.csproj",
+      "projectUniqueName": "C:\\Users\\felip\\Documents\\GitHub\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC.csproj",
       "projectName": "AutomacaoTCC",
-      "projectPath": "C:\\Users\\felip\\source\\repos\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC.csproj",
+      "projectPath": "C:\\Users\\felip\\Documents\\GitHub\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felip\\source\\repos\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC\\obj\\",
+      "outputPath": "C:\\Users\\felip\\Documents\\GitHub\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

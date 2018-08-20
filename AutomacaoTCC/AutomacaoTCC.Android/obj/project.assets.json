@@ -808,11 +808,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felip\\source\\repos\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC.Android\\AutomacaoTCC.Android.csproj",
+      "projectUniqueName": "C:\\Users\\felip\\Documents\\GitHub\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC.Android\\AutomacaoTCC.Android.csproj",
       "projectName": "AutomacaoTCC.Android",
-      "projectPath": "C:\\Users\\felip\\source\\repos\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC.Android\\AutomacaoTCC.Android.csproj",
+      "projectPath": "C:\\Users\\felip\\Documents\\GitHub\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC.Android\\AutomacaoTCC.Android.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felip\\source\\repos\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC.Android\\obj\\",
+      "outputPath": "C:\\Users\\felip\\Documents\\GitHub\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -829,8 +829,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Users\\felip\\source\\repos\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC.csproj": {
-              "projectPath": "C:\\Users\\felip\\source\\repos\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC.csproj"
+            "C:\\Users\\felip\\Documents\\GitHub\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC.csproj": {
+              "projectPath": "C:\\Users\\felip\\Documents\\GitHub\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC.csproj"
             }
           }
         }

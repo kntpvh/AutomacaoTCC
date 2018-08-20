@@ -6,3 +6,11 @@ C:\Users\felip\source\repos\AutomacaoTCC\AutomacaoTCC\AutomacaoTCC\obj\Debug\net
 C:\Users\felip\source\repos\AutomacaoTCC\AutomacaoTCC\AutomacaoTCC\obj\Debug\netstandard2.0\AutomacaoTCC.AssemblyInfo.cs
 C:\Users\felip\source\repos\AutomacaoTCC\AutomacaoTCC\AutomacaoTCC\obj\Debug\netstandard2.0\AutomacaoTCC.dll
 C:\Users\felip\source\repos\AutomacaoTCC\AutomacaoTCC\AutomacaoTCC\obj\Debug\netstandard2.0\AutomacaoTCC.pdb
+C:\Users\felip\Documents\GitHub\AutomacaoTCC\AutomacaoTCC\AutomacaoTCC\bin\Debug\netstandard2.0\AutomacaoTCC.deps.json
+C:\Users\felip\Documents\GitHub\AutomacaoTCC\AutomacaoTCC\AutomacaoTCC\bin\Debug\netstandard2.0\AutomacaoTCC.dll
+C:\Users\felip\Documents\GitHub\AutomacaoTCC\AutomacaoTCC\AutomacaoTCC\bin\Debug\netstandard2.0\AutomacaoTCC.pdb
+C:\Users\felip\Documents\GitHub\AutomacaoTCC\AutomacaoTCC\AutomacaoTCC\obj\Debug\netstandard2.0\AutomacaoTCC.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\GitHub\AutomacaoTCC\AutomacaoTCC\AutomacaoTCC\obj\Debug\netstandard2.0\AutomacaoTCC.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\GitHub\AutomacaoTCC\AutomacaoTCC\AutomacaoTCC\obj\Debug\netstandard2.0\AutomacaoTCC.AssemblyInfo.cs
+C:\Users\felip\Documents\GitHub\AutomacaoTCC\AutomacaoTCC\AutomacaoTCC\obj\Debug\netstandard2.0\AutomacaoTCC.dll
+C:\Users\felip\Documents\GitHub\AutomacaoTCC\AutomacaoTCC\AutomacaoTCC\obj\Debug\netstandard2.0\AutomacaoTCC.pdb

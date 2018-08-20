@@ -834,11 +834,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felip\\source\\repos\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC.iOS\\AutomacaoTCC.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\felip\\Documents\\GitHub\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC.iOS\\AutomacaoTCC.iOS.csproj",
       "projectName": "AutomacaoTCC.iOS",
-      "projectPath": "C:\\Users\\felip\\source\\repos\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC.iOS\\AutomacaoTCC.iOS.csproj",
+      "projectPath": "C:\\Users\\felip\\Documents\\GitHub\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC.iOS\\AutomacaoTCC.iOS.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felip\\source\\repos\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC.iOS\\obj\\",
+      "outputPath": "C:\\Users\\felip\\Documents\\GitHub\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -855,8 +855,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\felip\\source\\repos\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC.csproj": {
-              "projectPath": "C:\\Users\\felip\\source\\repos\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC.csproj"
+            "C:\\Users\\felip\\Documents\\GitHub\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC.csproj": {
+              "projectPath": "C:\\Users\\felip\\Documents\\GitHub\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC\\AutomacaoTCC.csproj"
             }
           }
         }
