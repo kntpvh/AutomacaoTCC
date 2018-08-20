@@ -26,7 +26,7 @@ namespace AutomacaoTCC.Models
 
         public static MQTTClient Conectar() {
             MQTTClient client = new MQTTClient(iplan, 1883);
-            client.Connect(iplan);
+            client.ConnectAsync(iplan);
             return client;
 
         }
